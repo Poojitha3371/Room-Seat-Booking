@@ -1,5 +1,4 @@
-# Room-Seat-Booking
-# Room/Seat Booking System – ServiceNow
+# Room Booking System – ServiceNow
 
 ## 📌 Objective
 A ServiceNow-based **Room/Seat Booking System** that streamlines scheduling, prevents double-booking, and automates booking confirmations.
